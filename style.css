@@ -1,0 +1,138 @@
+* {
+  font-family: Arial;
+}
+
+header {
+  background-color: #d3d3d3;
+  padding: 10px;
+  text-align: center;
+}
+
+nav {
+  width: 960px;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+header nav ul {
+  margin: 0 auto;
+}
+
+nav ul li{
+  margin: 0 2%;
+  float: left;
+  list-style-type: none;
+  background-color: #e3d474;
+  padding: 15px;
+  border: .5px solid silver;
+  border-radius: 10px;
+}
+
+main{
+  font-family: sans-serif;
+  width: 960px;
+  margin: 0 auto;
+}
+
+main img {
+  margin: 45px;
+}
+
+h1, h2, h3 {
+  text-transform: uppercase;
+  font-family: serif;
+  color: salmon;
+}
+
+h1{
+  font-size: 56px;
+  text-align: center;
+}
+
+table {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 0 auto;
+}
+
+th, td {
+  border: .5px solid black;
+  text-align: center;
+  padding: 5px;
+}
+
+th {
+  background-color: #d3d3d3;
+}
+
+tfoot{
+  background-color: salmon;
+}
+
+.totalCell {
+  background-color: salmon;
+}
+
+#store_form {
+  margin: 0 auto;
+}
+
+p {
+  background-color: : #d3d3d3;
+  padding: 10px;
+}
+
+img {
+  margin: 0 auto;
+}
+
+.featured_banner {
+  display: inline-block;
+  position: relative;
+}
+
+#cookie_facts {
+  display: inline-block;
+  width: 600px;
+  height: 700px;
+  position: absolute;
+  margin: left;
+  font-size: 14px;
+}
+
+#fact_header h2{
+  text-align: center;
+}
+
+div ul li ul li {
+  color: #d3d3d3;
+}
+
+#items {
+  margin: 20px auto;
+}
+
+#stores {
+  width: 300px;
+  border: 1px solid white;
+  position: relative;
+}
+
+.item {
+  display: inline-block;
+}
+
+footer {
+  background-color: #d3d3d3;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  font-family: Georgia;
+  letter-spacing: 2px;
+  margin: 200px, 0px, 0px, 0px;
+}
+
+img {
+  display: inline-block;
+  position: relative;
+}
